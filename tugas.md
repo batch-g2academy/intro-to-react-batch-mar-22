@@ -40,7 +40,7 @@ const movies = [
     {
         title: "Gone Girl"
         year: 2014,
-        desc: "Nick Dunne discovers that the entire media focus has shifted on him when his wife, Amy Dunne, mysteriously disappears on the day of their fifth wedding anniversary."
+        desc: "Nick Dunne discovers that the entire media focus has shifted on him when his wife, Amy Dunne, mysteriously disappears on the day of their fifth wedding anniversary.",
         casts: [ "Rosemund Pike", "Ben Affleck", "Neil Patrick Harris"],
         poster: "https://m.media-amazon.com/images/M/MV5BMTM0MWVkNzYtODljYS00MmM2LTlkMTEtYzU2ZTdkYjE2NGEyXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg"
     }
